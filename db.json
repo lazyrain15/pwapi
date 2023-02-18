@@ -1,0 +1,84 @@
+{
+"products":
+[{
+  "id": 1,
+  "name": "Bandicoot, southern brown",
+  "category": "Fuscia"
+}, {
+  "id": 2,
+  "name": "Tortoise, galapagos",
+  "category": "Crimson"
+}, {
+  "id": 3,
+  "name": "Hornbill, leadbeateri's ground",
+  "category": "Teal"
+}, {
+  "id": 4,
+  "name": "Knob-nosed goose",
+  "category": "Yellow"
+}, {
+  "id": 5,
+  "name": "King cormorant",
+  "category": "Turquoise"
+}, {
+  "id": 6,
+  "name": "Antelope, four-horned",
+  "category": "Maroon"
+}, {
+  "id": 7,
+  "name": "Yellow-bellied marmot",
+  "category": "Blue"
+}, {
+  "id": 8,
+  "name": "Asian foreset tortoise",
+  "category": "Indigo"
+}, {
+  "id": 9,
+  "name": "Avocet, pied",
+  "category": "Crimson"
+}, {
+  "id": 10,
+  "name": "Sea birds (unidentified)",
+  "category": "Aquamarine"
+}, {
+  "id": 11,
+  "name": "Onager",
+  "category": "Blue"
+}, {
+  "id": 12,
+  "name": "Hawk, galapagos",
+  "category": "Pink"
+}, {
+  "id": 13,
+  "name": "Zebra, plains",
+  "category": "Puce"
+}, {
+  "id": 14,
+  "name": "Heron, striated",
+  "category": "Teal"
+}, {
+  "id": 15,
+  "name": "Euro wallaby",
+  "category": "Goldenrod"
+}, {
+  "id": 16,
+  "name": "Blue duck",
+  "category": "Puce"
+}, {
+  "id": 17,
+  "name": "Stork, jabiru",
+  "category": "Khaki"
+}, {
+  "id": 18,
+  "name": "Barking gecko",
+  "category": "Teal"
+}, {
+  "id": 19,
+  "name": "Clark's nutcracker",
+  "category": "Goldenrod"
+}, {
+  "id": 20,
+  "name": "Snowy sheathbill",
+  "category": "Khaki"
+}]
+}
